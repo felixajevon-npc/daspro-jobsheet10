@@ -1,4 +1,4 @@
-class Bioskop08 {
+public class Bioskop08 {
     public static void main(String[] args) {
         String[][] penonton = new String[4][2];
 
